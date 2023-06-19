@@ -1,2 +1,1 @@
-# Frontend-mentor
-Frontend challenges from frontend mentor
+## Frontend challenges from frontend mentor
