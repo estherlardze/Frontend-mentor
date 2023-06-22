@@ -1,2 +1,2 @@
 # Frontend-mentor
-Frontend challenges from frontend mentor
+QR code challenges from frontend mentor
